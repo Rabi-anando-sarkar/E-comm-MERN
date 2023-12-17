@@ -1,0 +1,101 @@
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a{
+  color: blue;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0;
+  background-color: lightskyblue;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: lightskyblue;
+    padding: 5px;
+}
+
+.inputBox {
+  display: block;
+  margin: 10px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid lightskyblue;
+}
+
+.signupPage , .add-product ,.update-product{
+  margin-left: 35%;
+}
+
+.signUpbutton, .product-button {
+  margin: 10px;
+  padding: 10px;
+  width: 150px;
+  background-color: lightskyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.login {
+  margin-left: 35%;
+  margin-top: 100px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.nav-logo {
+  width: 50px;
+  float: left;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.invalid-input {
+  color: red;
+  font-size: 10px;
+  margin-top: -4px;
+  margin-bottom: -4px;
+  display: block;
+  margin-left: 12px;
+}
+
+.product-lists {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-lists ul li {
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+  margin: 0;
+}
+.product-lists ul {
+  margin: 0;
+}
+
+.search-bar {
+  width: 500px;
+  height: 25px;
+  border: 3px solid skyblue;
+  margin-bottom: 27px;
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 10px;
+}
+
+
+
